@@ -6,11 +6,11 @@ This repository inlcudes official implementations for CT score of melioidosis pn
 **Purpose:** To quantitatively extract CT features and evaluate CT score-based staging in predicting melioidosis pneumonia progression.
 
 <div align=center>
-<img src="figures/CTscore.png"/>
+<img src="figures/CTscore.png" width="850px" />
 </div>
 <div align=center>
-<img src="figures/stage_lesions.png"/>
+<img src="figures/stage_lesions.png" width="850px"/>
 </div>
 <div align=center>
-<img src="figures/GPR.png"/>
+<img src="figures/GPR.png" width="850px"/>
 </div>
