@@ -27,8 +27,8 @@ The L-BFGS Gaussian process predicted severe outcome patients, and the receiver 
 ## Getting Started
 We use 'scikit-mage==0.18.1' 'nibable==3.2.1' 'scikit-learn==1.0.2' 'scipy==1.7.3' 'numpy==1.21.6' libraries on PC.
 
--For CT feature_extraction, please see [feature_extraction.py](feature_extraction.py)
--For CT feature process, please see [feature_extraction.py](feature_extraction.py)
+- For CT feature_extraction, please see [feature_extraction.py](feature_extraction.py)
+- For CT feature process, please see [feature_extraction.py](feature_extraction.py)
 ## Citing
 ```
 title={A new CT score-based staging for melioidosis pneumonia to predict progression},
