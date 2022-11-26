@@ -8,7 +8,7 @@ This repository inlcudes official implementations for CT score of melioidosis pn
 ## Installation
 The following command will clone a copy of CT score to your computer using git:
 ```
-git clone https://github.com/Rsolut1on/A-new-CT-score-based-staging-for-melioidosis-pneumonia-to-predict-progression.git
+git clone https://github.com/Rsolut1on/MP_CTscore.git
 ```
 ## Results
 CT scores of the patients with melioidosis pneumonia based on chest CT scans from the time of onset of the initial symptoms.
@@ -24,6 +24,10 @@ The L-BFGS Gaussian process predicted severe outcome patients, and the receiver 
 <img src="figures/GPR.png" width="850px"/>
 </div>
 
+## Getting Started
+We use 'scikit-mage==0.18.1' 'nibable==3.2.1' 'scikit-learn==1.0.2' 'scipy==1.7.3' 'numpy==1.21.6' libraries on PC.
+-For CT feature_extraction, please see [feature_extraction.py](feature_extraction.py)
+-For CT feature process, please see [feature_extraction.py](feature_extraction.py)
 ## Citing
 ```
 title={A new CT score-based staging for melioidosis pneumonia to predict progression},
