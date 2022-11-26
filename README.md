@@ -23,3 +23,9 @@ The L-BFGS Gaussian process predicted severe outcome patients, and the receiver 
 <div align=center>
 <img src="figures/GPR.png" width="850px"/>
 </div>
+
+## Citing
+```
+title={A new CT score-based staging for melioidosis pneumonia to predict progression},
+author={Yang Chen1,2,15, Dehuai He1,15, Yehua Wu3, Jianqiang Chen4, Xiangying Li5, Xiaohua Li4, Long Fan6, Shengshi Mai7, Jingxiong Li8, Xiaohua Fu5,9, Zewei Wang10, Hao Yun11, Hanwen Chen12, Yuefu Zhan13*, Xiaobo Zhou14}
+``
