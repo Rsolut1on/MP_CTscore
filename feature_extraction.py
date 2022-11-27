@@ -132,4 +132,4 @@ for step, ele in enumerate(name_list):
         patients_data.append([patient_id, date, exu_area2lung, nod_area2lung, hol_area2lung])
     # patients_data.append([patient_id, patient_data])
 patients_data_arr = np.array(patients_data)
-np.save('fetures_newLung9_sever.npy', patients_data_arr)
+np.save('fetures.npy', patients_data_arr)
